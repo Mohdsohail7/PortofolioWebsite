@@ -898,6 +898,12 @@ footer{
 
 
 @media(max-width:650px){
+  .active .mobile-navbar-btn .mobile-nav-icon[name = "close-outline"]{
+    display: block;
+  }
+  .active .mobile-navbar-btn .mobile-nav-icon[name = "menu-outline"]{
+    display: none;
+  }
   .hero-section-left{
     width: 90%;
   }
