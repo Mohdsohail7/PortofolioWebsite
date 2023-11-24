@@ -539,7 +539,7 @@ a{
   }
 
   .skills-logo{
-    width: 90px;
+    width: 95px;
     transition: all 0.5s;
   }
 
@@ -565,7 +565,7 @@ a{
 }
 
 .skill-subHeading p{
-  margin: 15px 0;
+  margin: 10px 0;
 }
 
 .name{
@@ -906,7 +906,7 @@ footer{
   }
   
   .hero-section-description{
-    font-size: 15px;
+    font-size: 14px;
     text-align: center;
     width: 100%;
   }
@@ -964,14 +964,26 @@ footer{
     width: 40px;
   }
   #submit-btn{
-    font-size: 0.8rem;
+    font-size: 0.6rem;
   }
   .submit-icon{
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     
+  }
+  .btn-pink{
+    padding: 0.8rem 2rem;
   }
   .footer-faded-text{
     font-size: 3.2em;
+  }
+
+  .skill-fade-text{
+    font-size: 10rem;
+    right: -26%;
+    bottom: -11%;
+  }
+  .hero-section-heading{
+    font-size: 20px;
   }
 }
 
