@@ -434,12 +434,14 @@ a{
     font-size: 50px;
     font-weight: bold;
     line-height: 3rem;
+    color: rgb(177, 231, 231);
   }
 
   .project-subHeading{
     width: 70%;
     font-size: 16px;
     font-style: italic;
+    color: rgb(224, 208, 208);
 
   }
 
