@@ -802,7 +802,7 @@ footer{
   .active .mobile-navbar-btn .mobile-nav-icon[name = "close-outline"]{
     display: block;
   }
-  .active .mobile-navbar-btn .mobile-nav-icon[name = "menu-outline"]{
+  .active .mobile--btn .mobile-nav-icon[name = "menu-outline"]{
     display: none;
   }
   .nav-container{
@@ -901,6 +901,9 @@ footer{
   .hero-section-left{
     width: 90%;
   }
+  .active .nav-items{
+    transform: translateY(-100px);
+  }
   .hero-section-heading{
     font-size: 20px;
   }
@@ -987,6 +990,9 @@ footer{
   }
   .hero-section-heading{
     font-size: 20px;
+  }
+  .active .nav-items{
+    transform: translateY(-100px);
   }
 }
 
